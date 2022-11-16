@@ -132,3 +132,66 @@ nav {
   box-shadow: inset 0px -4px 0px rgba(0, 0, 0, 0.12);
   border-radius: 4px;
 }
+
+.main_info {
+  padding: 71px 0 65px 0;
+}
+
+.lable {
+  margin: auto;
+  padding: 5px 12px;
+  font-weight: 300;
+  font-size: 11px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+  width: 115px;
+  height: 27px;
+  background: #000000;
+}
+
+.main-title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 38px;
+  margin-top: 38px;
+  text-transform: uppercase;
+  color: #222222;
+}
+
+.main_info .reason_block {
+  margin-top: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 113px;
+  height: 113px;
+  border-radius: 50%;
+  padding: 24px;
+  background: #1eacc7;
+  margin-right: 24px;
+}
+
+.reason_desc {
+  width: 343px;
+}
+
+.reason_subtitle {
+  line-height: 21px;
+  color: #1eacc7;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.reason_text {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 21px;
+  color: #202020;
+}
